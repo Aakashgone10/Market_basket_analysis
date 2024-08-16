@@ -27,4 +27,4 @@ The Apriori algorithm is configured with the following parameters:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/market-basket-analysis.git
+   git clone https://github.com/Aakashgone10/Market_basket_analysis.git
